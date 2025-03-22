@@ -1,0 +1,37 @@
+./objects/statisticsfunctions.o: \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\StatisticsFunctions.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_max_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Include\arm_math.h \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armclang.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\string.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\math.h \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\float.h \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_max_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_max_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_max_q7.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_mean_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_mean_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_mean_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_mean_q7.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_min_f32.c \
+  D:\keilc\ARM\ARMCLANG\Bin\..\include\limits.h \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_min_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_min_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_min_q7.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_power_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_power_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_power_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_power_q7.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_rms_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_rms_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_rms_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_std_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_std_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_std_q31.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_var_f32.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_var_q15.c \
+  D:\keilc\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\StatisticsFunctions\arm_var_q31.c
