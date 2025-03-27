@@ -1,0 +1,255 @@
+Dependencies for Project 'rfid', Target 'RFID': (DO NOT MODIFY !)
+CompilerVersion: 6130001::V6.13.1::.\ARMCLANG
+F (..\USER\tim2.h)(0x67E49C4E)()
+F (..\USER\gpio.h)(0x67E49C4E)()
+F (..\USER\rfid.h)(0x67E49C4E)()
+F (..\USER\spi.h)(0x67E49C4E)()
+F (..\USER\uart.h)(0x67E49C4E)()
+F (..\USER\sys.h)(0x67E49C4E)()
+F (..\USER\main.c)(0x67E5196A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/main.o -MD)
+I (..\USER\sys.h)(0x67E49C4E)
+I (..\USER\uart.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+I (..\USER\rfid.h)(0x67E49C4E)
+I (..\USER\spi.h)(0x67E49C4E)
+I (..\USER\tim2.h)(0x67E49C4E)
+I (..\USER\gpio.h)(0x67E49C4E)
+F (..\USER\tim2.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/tim2.o -MD)
+I (..\USER\tim2.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (..\USER\gpio.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/gpio.o -MD)
+I (..\USER\gpio.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+I (..\USER\tim2.h)(0x67E49C4E)
+F (..\USER\rfid.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/rfid.o -MD)
+I (..\USER\rfid.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+I (..\USER\spi.h)(0x67E49C4E)
+I (..\USER\uart.h)(0x67E49C4E)
+F (..\USER\spi.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/spi.o -MD)
+I (..\USER\spi.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (..\USER\uart.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/uart.o -MD)
+I (..\USER\uart.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (..\USER\sys.c)(0x67E51AE3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/sys.o -MD)
+I (..\USER\sys.h)(0x67E49C4E)
+I (..\USER\uart.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+I (..\USER\rfid.h)(0x67E49C4E)
+I (..\USER\spi.h)(0x67E49C4E)
+I (..\USER\tim2.h)(0x67E49C4E)
+I (..\USER\gpio.h)(0x67E49C4E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\misc.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/misc.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/stm32f10x_gpio.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/stm32f10x_rcc.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\stm32f10x_spi.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/stm32f10x_spi.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\stm32f10x_tim.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/stm32f10x_tim.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x61AE5A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/stm32f10x_usart.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x67E49C4E)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x67E49C4E)(--cpu Cortex-M3 -g-I.\RTE\Device\STM32F103C8-I.\RTE\_RFID-I"C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include"-I"C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include"-I"C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc"--pd "__UVISION_VERSION SETA 529"--pd "_RTE_ SETA 1"--pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst--xref -o .\objects\startup_stm32f10x_md.o--depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)()
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x67E49C4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/Device/STM32F103C8-I./RTE/_RFID-I"C:/Users/A C E R/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include"-I"C:/Users/A C E R/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/inc"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AE5A5E)
+I (RTE\_RFID\RTE_Components.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x62702BDE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5DB42EA0)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x62702BDE)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AE5A5E)
+I (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x67E49C4E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61AE5A5E)
+I (C:\Users\A C E R\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\StdPeriph_Driver\inc\misc.h)(0x61AE5A5E)
